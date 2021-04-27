@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bgUsers {
+  background-color: #d0e5e8;
+  height: 100vh;
+}
+
+.bgRestaurants {
+  background-color: #fff9e0;
+  height: 100vh;
+}
+
+.bgReviews {
+  background-color: #fdebeb;
+  height: 100vh;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+}
+
+.same-line-elements {
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttonStyle {
+  margin-top: 11%;
+}
